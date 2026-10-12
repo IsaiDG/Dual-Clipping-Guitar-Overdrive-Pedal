@@ -22,7 +22,7 @@ The reason for the creation of this pedal was to learn AC analysis and design te
 
 2. Breadboard Prototyping: Realized circuit onto breadboard and verified bias voltage by comparing simulated behavior and multimeter readings. Troubleshooted issues including incorrect input and output terminals, uneven feedback loop voltages, and faulty components.
 
-3. PCB Design: Full schematic made in KiCAD using 3PDT switch. Created PCB design and prepared the design for fabrication
+3. PCB Design: Full schematic made in KiCAD using 3PDT switch. Created custom footprints for switch and potentiometers. Created PCB design and prepared the design for fabrication
  
 4. Hardware Assembly (In Progress): Solder parts onto custom PCB
 
