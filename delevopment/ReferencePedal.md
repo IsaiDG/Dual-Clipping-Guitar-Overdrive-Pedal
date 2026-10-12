@@ -2,6 +2,6 @@
 
 ![Wapler Pedals Overdrive Circuit](../images/Wampler_Pedal.png)
 
-At the beginning of this process, I looked at this schematic and knew absolutely nothing about it. It was intimidating as I had very brief knowledge of AC analysis from my circuits 1 course. The majority of this project was done trying to understand the reason behind every component and its value on this existing circuit. Because this is my first independent project, there are many features on my pedal that are very similar to this pedal. My main goal throughout this process was to understand this existing pedal, while adding my own embellishments. 
+At the beginning of this process, I looked at this schematic and knew absolutely nothing about it. It was intimidating as I had very brief knowledge of AC analysis from my circuits 1 course. The majority of this project was done trying to understand the reason behind every component and its value on this existing circuit. Because this is my first independent project, there are many features on my pedal that are very similar to this pedal. My main goal throughout this process was to understand this existing pedal, while adding my own embellishments. However, many of the choices made in the creation of my circuit was based on this schematic 
 
 [Wampler Pedal](https://www.wamplerpedals.com/blog/latest-news/2020/05/how-to-design-a-basic-overdrive-pedal-circuit/)
