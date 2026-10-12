@@ -1,4 +1,2 @@
 # Dual-Clipping-Guitar-Overdrive-Pedal
-Analog guitar pedal circuit using tl082 op amp with hard clipping and soft clipping doide capabilities
-
-tduhtudtisr
+This pedal was based on Wampler Pedals' guitar overdrive circuit. It builds on the Walpler's diode clipping mechanism within the feedback loop of a TL082 op amp by adding a switchable hard clipping path outside of the opamp. This switching is done with a Triple Pole Double Throw (3PDT) footswitch with one pole illuminating an LED to indicate which switching mode is active.
